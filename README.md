@@ -8,36 +8,11 @@
 🏆 300+ DSA Problems Solved  
 
 ---
-<h3>Languages</h3>
+<h3>Tech Stack</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,tensorflow,pytorch,fastapi,mysql,mongodb,html,css,git"/>
 </p>
-
-<h3>Frameworks</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,fastapi,tensorflow,pytorch"/>
-</p>
-
-<h3>Databases</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
-
-<h3>Web Technologies</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css"/>
-</p>
-
-<h3>Tools</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=git"/>
-</p>
-
 ## 🚀 Projects
 
 ### 🌿 Potato Leaf Disease Detection
