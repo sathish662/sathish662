@@ -73,3 +73,5 @@ Greedy Algorithms
 LinkedIn: https://www.linkedin.com/in/sathish-g-253758360  
 GitHub: https://github.com/sathish662  
 Email: sathish.1si23is414@gmail.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathish662&show_icons=true)
