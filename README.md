@@ -1,4 +1,7 @@
 # Hi 👋 I'm Sathish G
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Sathish;AI+%7C+Machine+Learning+Engineer;Computer+Vision+Developer;300%2B+DSA+Problems+Solved">
+</p>
 
 🎓 Information Science Engineering Student at Siddaganga Institute of Technology  
 💻 Passionate about Artificial Intelligence, Computer Vision and Generative AI  
