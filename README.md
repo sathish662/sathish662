@@ -8,6 +8,35 @@
 🏆 300+ DSA Problems Solved  
 
 ---
+<h3>Languages</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript"/>
+</p>
+
+<h3>Frameworks</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,fastapi,tensorflow,pytorch"/>
+</p>
+
+<h3>Databases</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+<h3>Web Technologies</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css"/>
+</p>
+
+<h3>Tools</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git"/>
+</p>
 
 ## 🚀 Projects
 
