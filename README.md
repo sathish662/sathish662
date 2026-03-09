@@ -8,10 +8,31 @@
 🏆 300+ DSA Problems Solved  
 
 ---
-<h3>Tech Stack</h3>
+<h2>🛠 Tech Stack</h2>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,tensorflow,pytorch,fastapi,mysql,mongodb,html,css,git"/>
+<h3>Languages</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript"/>
+</p>
+
+<h3>Frameworks & AI</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=react,fastapi,tensorflow,pytorch"/>
+</p>
+
+<h3>Databases</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+</p>
+
+<h3>Cloud & DevOps</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git"/>
+</p>
+
+<h3>Web Technologies</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css"/>
 </p>
 ## 🚀 Projects
 
